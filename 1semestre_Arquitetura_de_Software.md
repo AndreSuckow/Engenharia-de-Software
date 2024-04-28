@@ -234,6 +234,8 @@ Na área da tecnologia, estudos e pesquisas continuam sendo realizados em busca 
 Exemplo
 Computadores quânticos usam as características da mecânica quântica a fim de permitir a solução de problemas muito complexos para PCs convencionais.
 
+matéria exemplificando: [google e computação quântica](https://www.rtp.pt/noticias/mundo/computador-quantico-resolve-em-tres-minutos-equacao-para-10-mil-anos_n1181111)
+
 ### Superposição:
 Sem ir muito longe nas definições do que é um computador quântico, é possível dizer que o segredo de sua grande capacidade de processamento vem da superposição. Trata-se de um fenômeno da física quântica que permite que partículas assumam múltiplos estados simultaneamente. É isso que permite que um computador quântico analise bilhões de possibilidades ao mesmo tempo.
 
